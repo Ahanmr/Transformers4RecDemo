@@ -128,4 +128,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-data/
+.DS_Store
+
+data/2019-Oct-ETL.csv
+data/2019-Oct-Processed.csv
+data/2019-Oct.csv
+data/sessions_by_day/3
+data/sessions_by_day/4
+data/sessions_by_day/5
+data/sessions_by_day/6
+data/sessions_by_day/7
