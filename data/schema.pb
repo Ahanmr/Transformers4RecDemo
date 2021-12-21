@@ -151,5 +151,8 @@ feature {
   }
   annotation {
    tag: "item_id"
+   tag: "list"
+   tag: "categorical"
+   tag: "item"
   }
 }
